@@ -10,12 +10,13 @@
 
 ## 👨‍💻  스터디원
 
-| 이름   | GitHub                                         |
-| ------ | ---------------------------------------------- |
-| 유재광 | [@JAEKWANG97](https://github.com/JAEKWANG97) |
-| 박지훈 | [@JiHunparkkk](https://github.com/JiHunparkkk) |
-| 김두열 | [@enduf7686](https://github.com/enduf7686) |
-| 김범수 | [@Kimbumsoo99](https://github.com/Kimbumsoo99) |
+| 프로필 | GitHub 링크 |
+|--------|-------------|
+| <img src="https://github.com/JAEKWANG97.png" width="80"><br>유재광 | [@JAEKWANG97](https://github.com/JAEKWANG97) |
+| <img src="https://github.com/JiHunparkkk.png" width="80"><br>박지훈 | [@JiHunparkkk](https://github.com/JiHunparkkk) |
+| <img src="https://github.com/enduf7686.png" width="80"><br>김두열 | [@enduf7686](https://github.com/enduf7686) |
+| <img src="https://github.com/Kimbumsoo99.png" width="80"><br>김범수 | [@Kimbumsoo99](https://github.com/Kimbumsoo99) |
+
 
 
 ## 💻 타임 테이블
