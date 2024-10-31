@@ -1,5 +1,7 @@
 # CS-Study
 
+## 스터디 진도 확인 >>>>> [daily-scrum](https://github.com/CS-with-SSAFY/daily-scrum) <<<<<
+
 ## 🌳 Rule
 - 스터디는 매주 월~금 진행 (공휴일은 x)
 - 매일 아침 CS주제를 선정 및 회의록을 [daily-scrum](https://github.com/CS-with-SSAFY/daily-scrum) 작성
