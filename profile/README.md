@@ -31,18 +31,15 @@
 
 > 각자 개인적으로 공부한 자료 링크 걸어둘 예정
 
-## 📌 네트워크
 
-- [OSI 7 계층]()
-- [TCP 3 way handshake & 4 way handshake]
-- [TCP/IP 흐름제어 & 혼잡제어]
-- [TCPvsUDP]
-- [대칭키 & 공개키]
-- [HTTP & HTTPS]
-- [로드 밸런싱(Load Balancing)]
-- Blocking & Non-Blocking I/O
-
-  
+## 📌 컴퓨터 구조
+ - 컴퓨터 구조 기초
+ - 컴퓨터의 구성
+ - 중앙처리장치(CPU) 작동 원리
+ - 캐시 메모리
+ - 고정 소수점 & 부동 소수점
+ - 패리티 비트 & 해밍 코드
+ - ARM 프로세서
 
 ## 📌 운영체제
 
@@ -62,6 +59,16 @@
 - 메모리(Memory)
 - 파일 시스템
 
+## 📌 네트워크
+
+- [OSI 7 계층]()
+- [TCP 3 way handshake & 4 way handshake]
+- [TCP/IP 흐름제어 & 혼잡제어]
+- [TCPvsUDP]
+- [대칭키 & 공개키]
+- [HTTP & HTTPS]
+- [로드 밸런싱(Load Balancing)]
+- Blocking & Non-Blocking I/O
 
 
 ## 📌 데이터베이스
