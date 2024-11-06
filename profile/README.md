@@ -51,7 +51,7 @@ commit 내용 : [대주제] {소주제} 정리 ex)"[운영체제] 시스템 콜 
  - 패리티 비트 & 해밍 코드
  - ARM 프로세서
 
-## 📌 운영체제
+## 📌 [운영체제](https://github.com/CS-with-SSAFY/CS-Study/tree/main/CS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)
 
 - [운영체제란?]
 - [프로세스 vs 스레드]
@@ -60,8 +60,8 @@ commit 내용 : [대주제] {소주제} 정리 ex)"[운영체제] 시스템 콜 
 - [시스템 콜(System Call)]()
 - [PCB와 Context Switching]()
 - [IPC(Inter Process Communication)]()
-- [CPU 스케줄링](https://github.com/CS-with-SSAFY/CS-Study/tree/main/Computer%20Science/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/08.%20CPU%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81)
-- [데드락(DeadLock)](https://github.com/CS-with-SSAFY/CS-Study/tree/main/Computer%20Science/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/09.%20%EB%8D%B0%EB%93%9C%EB%9D%BD)
+- [CPU 스케줄링]()
+- [데드락(DeadLock)]()
 - [Race Condition]()
 - [세마포어(Semaphore) & 뮤텍스(Mutex)]()
 - 페이징 & 세그먼테이션
