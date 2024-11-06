@@ -189,3 +189,12 @@ commit 내용 : [대주제] {소주제} 정리 ex)"[운영체제] 시스템 콜 
 - 네이티브 앱 & 웹 앱 & 하이브리드 앱
 - PWA(Progressive Web App)
 
+### Spring
+- [Spring] Bean Scope
+- [Spring] MVC Framework
+- [Spring Boot] SpringApplication
+- [Spring Boot] Test Code
+- JPA
+- [Spring Data JPA] 더티 체킹(Dirty Checking)
+- Spring Security - 인증 및 권한 부여
+
